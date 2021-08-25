@@ -12,7 +12,7 @@ A news application application that allows listing and preview of news articles 
 * Search News Sources
 
 ## Setup Process
-To run the web application on your server use the following steps.
+To run the web application on your server you  the following steps.
 
 *  git clone https:https://github.com/gingerlauren/news-project.git
 *  cd news project
