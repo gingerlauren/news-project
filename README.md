@@ -1,7 +1,7 @@
 # NEWS PROJECT
 
 #### Created by 
-   GINGER LAURENhhhhhhhhggg
+   GINGER LAURENhhhhhhhh
 
 ## Description
 A news application application that allows listing and preview of news articles from various sources that are credible .It perfectly displays the  current headlines on home page to notify the audience about the current affairs.
