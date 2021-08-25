@@ -4,7 +4,7 @@
    GINGER LAURENhhhhhhhhggggddddddddddddddd
 
 ## Description
-A news application application that allows listing and preview news articles from various sources as well as display current headlines on home page.
+A news application application that allows listing and preview of news articles from various sources as well as display current headlines on home page.
 
 ## Application Features
 * News Sources
